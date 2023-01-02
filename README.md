@@ -1,15 +1,46 @@
-Joined Github **5** years ago.
+### Hi there 👋
 
-Since then I pushed **304** commits, opened **6** issues, submitted **11** pull requests, received **2** stars across **47** personal projects and contributed to **10** public repositories.
+ Joined Github **5** years ago.
 
-Most used languages across my projects:
+Since then I pushed **306** commits, opened **6** issues, submitted **11** pull requests, received **2** stars across **47** personal projects and contributed to **10** public repositories.
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B172.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B117.9%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B14.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.9%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B11.3%25)
-![EJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B10.4%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
+Estimated Numbers of Hours Spent Coding
+
+[![wakatime](https://wakatime.com/badge/user/97fff8c4-0d86-42e0-aed2-65cc0d9155c1.svg)](https://wakatime.com/@97fff8c4-0d86-42e0-aed2-65cc0d9155c1)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://twitter.com/roh1tkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roh1tkumar" height="20" width="30" /></a>
+
+<a href="https://linkedin.com/in/rohit1kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit1kumar" height="20" width="30" /></a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/nodejs.svg" alt="NodeJS" width="30" height="40"/>
+
+<a href="https://expressjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/express.svg" alt="ExpressJS" width="30" height="40"/>
+
+<a href="https://mongodb.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Database/mongodb.svg" alt="mongodb" width="30" height="40"/>
+
+<a href="https://mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Database/mysql.svg" alt="MySQL" width="30" height="40"/>
+
+<a href="https://www.rabbitmq.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/rabbitmq.svg" alt="rabbitmq" width="30" height="40"/>
+
+</p>
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
