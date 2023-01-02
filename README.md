@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/97fff8c4-0d86-42e0-aed2-65cc0d9155c1.svg)](https://wakatime.com/@97fff8c4-0d86-42e0-aed2-65cc0d9155c1)
+
 <!--
 **rohit1kumar/rohit1kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
