@@ -13,9 +13,7 @@ Estimated Numbers of Hours Spent Coding
 <p align="left">
 
 <a href="https://twitter.com/roh1tkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roh1tkumar" height="20" width="30" /></a>
-
 <a href="https://linkedin.com/in/rohit1kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit1kumar" height="20" width="30" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
