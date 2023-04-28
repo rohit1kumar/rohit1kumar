@@ -2,7 +2,7 @@
 
  Joined Github **5** years ago.
 
-Since then I pushed **293** commits, opened **6** issues, submitted **8** pull requests, received **3** stars across **51** personal projects and contributed to **9** public repositories.
+Since then I pushed **293** commits, opened **7** issues, submitted **8** pull requests, received **3** stars across **51** personal projects and contributed to **10** public repositories.
 
 Estimated Numbers of Hours Spent Coding
 
